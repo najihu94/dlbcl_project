@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Whole_SlideIPP.iml" filepath="$PROJECT_DIR$/.idea/Whole_SlideIPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../deep-histopath/.idea/deep-histopath.iml" filepath="$PROJECT_DIR$/../deep-histopath/.idea/deep-histopath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../extract_patches/.idea/extract_patches.iml" filepath="$PROJECT_DIR$/../extract_patches/.idea/extract_patches.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../openslide-python/.idea/openslide-python.iml" filepath="$PROJECT_DIR$/../openslide-python/.idea/openslide-python.iml" />
+    </modules>
+  </component>
+</project>
